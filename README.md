@@ -1,4 +1,8 @@
-### Hi there 👋
+# Halo semua! 
+
+Hello There! Let me introduce myself, **My name Muhammad Adhi Herlianto**<br>
+I'm a Passionate Mobile Developer with two years of experience.<br>
+able to work independently, and has published mobile apps that benefit a lot of people.
 
 <!--
 **adhiherlianto/adhiherlianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
