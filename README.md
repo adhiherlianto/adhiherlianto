@@ -1,7 +1,7 @@
 # Hello There!
 
 Let me introduce myself, **My name Muhammad Adhi Herlianto**<br>
-I'm a Passionate Mobile Developer especially in **Flutter** with two years of experience.<br>
+I'm a Passionate Mobile Developer especially in **Flutter** and **Swift** with more than three years of experience.<br>
 able to work independently, and has published mobile apps that benefit a lot of people.<br>
 
 <p align="left">
